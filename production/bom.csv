@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"FB1, FB2, FB3, FB4, FB5, FB6, FB7",0805,7,FerriteBead_Small,
+J1,COMBO SFF-8644 SFF-8643,1,2149027-1,
+"J2, J3, J4, J5",CONN_67800-8025_MOL,4,678008025,
+J6,PinHeader_2x05_P1.27mm_Vertical,1,Conn_01x10,
